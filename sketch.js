@@ -7,7 +7,7 @@ function setup() {
   createCanvas(900, 700);
   mago = loadImage("Mago.png")
   grama = loadImage("grass.jpg")
-  agua = loadImage("water.jpg")
+  agua = loadImage(".water.jpg")
   ponte = loadImage("bridge.png")
 }
   
